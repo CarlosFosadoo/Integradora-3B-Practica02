@@ -54,3 +54,13 @@ Para poder poner el texto en negrita, este deberá ser encerrado entre dobles **
 
 EJEMPLO:
 Texto Texto Texto Texto **Texto Importante** Texto Texto Texto Texto Texto Texto 
+
+##### Texto en cursiva (ITALIC)
+Para poder poner el texto en cursiva, este deberá ser encerrado con la 
+Ejemplo:
+Texto Texto Texto Texto <i>Texto Importante</i> Texto Texto Texto Texto Texto Texto
+
+##### Texto en cursiva y negrita(BOLD/ITALIC)
+Para poder poner el texto en cursiva y negrita, este deberá ser encerrado con la 
+Ejemplo:
+Texto TextoTexto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto
