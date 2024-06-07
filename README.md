@@ -93,8 +93,25 @@ También podemos ingresar textos multilínea
 
 **Ejemplo**
 
-
 >Aquí se ingresa un conjunto de instrucciones
-
 >para explicar al usuario, como instalar el
 >software que hemos diseñado.
+
+Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar.
+
+
+**Ejemplo**
+
+**Pasos para Instalar la Base de Datos**
+
+> - Descargar MySQL Server del Sitio Oficial
+
+> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario 
+***root***
+
+> - Descargamos el archivo de respaldo de la base de datos (.sql)
+
+> - Restauramos la Base de Datos Usando el comando *MySQL *
+
+>> c:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password\<respaldo.sql
+
