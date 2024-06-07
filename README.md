@@ -64,3 +64,11 @@ Texto Texto Texto Texto <i>Texto Importante</i> Texto Texto Texto Texto Texto 
 Para poder poner el texto en cursiva y negrita, este deberá ser encerrado con la 
 Ejemplo:
 Texto TextoTexto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto
+
+
+##### Textos Subrayado (UNDERLINE)
+Algunas veces necesitamos subrayar terxto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo que usa el estandar de HTML usando el tag /<ins> y cerrando con /<ins> y
+
+**Ejemplo**
+TEXTO TEXTOTEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
+TEXTO TEXTOTEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO <ins>TEXTO SUBRAYADO</ins> TEXTO TEXTO TEXTO  
