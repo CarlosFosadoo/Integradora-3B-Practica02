@@ -15,3 +15,9 @@ Para poder realizar una buena documentación del proyecto debemos, distribuir co
 ##### Encabezado de Nivel 5 -Similar a H1 en HTML
 ###### Encabezado de Nivel 6 -Similar a H1 en HTML
 ####### Encabezado de Nivel 7 -Solo 6 son los niveles permitidos
+
+### 2. Separadores (SEPARATORS)
+Si se desea marcar una separación más visual de contenidos podemos utilizarlos indicando 3 caracteres de "-" continuos, en el maquetado.
+EJEMPLO:
+---
+*Esto es similar a un tag de < HR > en HTML.
